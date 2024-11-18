@@ -1,3 +1,12 @@
 [submodule "authuser"]
 	path = authuser
 	url = https://github.com/brunoandreotti/authuser
+[submodule "payment"]
+	path = payment
+	url = https://github.com/brunoandreotti/payment
+[submodule "notification"]
+	path = notification
+	url = https://github.com/brunoandreotti/notification
+[submodule "course"]
+	path = course
+	url = https://github.com/brunoandreotti/course
